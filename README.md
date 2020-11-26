@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="260" height="200" src="https://elsowiny.com/assets/images/logo/newlogodesignrz.png">
+  <img width="160" height="150" src="https://elsowiny.com/assets/images/logo/newlogodesignrz.png">
 </p>
 
 [![Website](https://img.shields.io/website?label=elsowiny.com&style=for-the-badge&url=https%3A%2F%2Felsowiny.com)](https://elsowiny.com)
