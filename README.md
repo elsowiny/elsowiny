@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... Software Engineering
-- 🌱 I’m currently learning Design Patterns
+- 🔭 I’m currently working on ... C# 
+- 🌱 I’m currently learning ASP.NET
 
 <br />
 
