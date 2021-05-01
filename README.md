@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on ... C# 
-- 🌱 I’m currently learning ASP.NET
+
 
 <br />
 
