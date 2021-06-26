@@ -6,14 +6,12 @@
 ### Hi I'm Sherief 👋
 [Website]: "elsowiny.com"
 
-[tokyonight]: https://github-readme-stats.vercel.app/api?username=elsowinya&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsowiny&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsowiny&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight"/>
   </a> 
   <a href="https://github.com/anuraghazra/github-readme-stats"  >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsowiny&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsowiny&layout=compact&cache_seconds=86400&theme=tokyonight"/>
   </a>
 
 
