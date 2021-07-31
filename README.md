@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on ... REACT
+- 🔭 I’m currently working on ...Microservices, Microfrontends, Blockchain, Blogging, and more!
+- Overwhelming? Yes... but I love, love compsci and development.
 
 <br />
 
