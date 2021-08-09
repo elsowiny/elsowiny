@@ -1,7 +1,7 @@
 <div align="center">
 <img width="50%" height = "250px" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" alt="cover" />
   
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif" width="100%" />
   <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif"  />
   
   
