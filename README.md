@@ -19,7 +19,9 @@
 
 <!--<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
   
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/Black-Axe/DigitalAssets/main/logos/baxeblueclear.png" />
+ <a href="https://github.com/Black-Axe">
+<img width="45%" align="right" alt="black axe" src="https://raw.githubusercontent.com/Black-Axe/DigitalAssets/main/logos/baxeblueclear.png" />
+  </a>
  
 
 
