@@ -13,22 +13,18 @@
 
 
 </p>
-<div size='20px'> Hi! My name is Sherief and I'm a full stack developer and lover of all things programming. Thank You for taking the time to view my GitHub profile :smile: 
+<div size='20px'> Hi, my name is Sherief and I'm a full stack developer and open source lover.
 </div>
 
 <h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!--<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+  
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/Black-Axe/DigitalAssets/main/logos/baxeblueclear.png" />
+ 
 
-<!--- 
-- 🌱 I’m currently learning React Native 
--->
 
-- 🔭 I’m currently working on Microservices, Microfrontends, Blockchain, Blogging, and more!
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about React, Node, Systems, Freelancing Opportunites, Open Source 
-
+- 🔭 I’m currently working on <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>Black Axe</a>, Blogging, Grad school and more!
 
 
 <h2> Tech & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
