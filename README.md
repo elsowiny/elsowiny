@@ -25,7 +25,7 @@
  
 
 
-- 🔭 I’m currently working on <a href='https://github.com/Black-Axe'>Black Axe</a>, <a href="https://elsowiny.com/articles">blogging</a>, <a href="https://elsowiny.com/articles">graduate school</a> and more!
+- 🔭 I’m currently working on <a href='https://github.com/Black-Axe'>Black Axe</a>, <a href="https://elsowiny.com/articles">blogging</a>, <a href="https://elsowiny.com/research">graduate school</a> and more!
 - Lover of open source, collaboration, and creativity
 
 
