@@ -87,4 +87,4 @@ self host or fork a repo that fixes private repo stats and langauge count
 
 <br>
 <br>
-<footer align='center'>Ask me about projects or how you can join or help Black Axe</footer>
+<footer align='center'>Ask me about projects or how you can join or help <a href="https://github.com/Black-Axe">Black Axe</a></footer>
