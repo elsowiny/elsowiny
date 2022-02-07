@@ -34,9 +34,12 @@
 </div>
 
 
+<div align="center">
+
 <footer align='center'>
 <a href="https://github.com/Black-Axe">
 <img width="45%" align="center" alt="black axe" src="https://raw.githubusercontent.com/Black-Axe/DigitalAssets/main/logos/baxeblueclear.png" />
   </a>
 
 Ask me about projects or how you can join or help <a href="https://github.com/Black-Axe">Black Axe</a></footer>
+</div>
