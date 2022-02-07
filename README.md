@@ -17,9 +17,7 @@
 
 <h2> About Me</h2>
 
- <a href="https://github.com/Black-Axe">
-<img width="45%" align="right" alt="black axe" src="https://raw.githubusercontent.com/Black-Axe/DigitalAssets/main/logos/baxeblueclear.png" />
-  </a>
+ 
  
 
 
@@ -27,17 +25,18 @@
 - Lover of open source, collaboration, and creativity
 
 
-<a href = 'https://www.linkedin.com/in/sheriefelsowiny'>  
-<img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://elsowiny.com/'>
- <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/elsowiny/DigitalAssets/master/elsosite/logosmall.png"/></a> 
-
-
-
+<div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsowiny&show_icons=true&hide=&cache_seconds=86400&theme=blue-green"/>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elsowiny&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
 
-<footer align='center'>Ask me about projects or how you can join or help <a href="https://github.com/Black-Axe">Black Axe</a></footer>
+
+<footer align='center'>
+<a href="https://github.com/Black-Axe">
+<img width="45%" align="center" alt="black axe" src="https://raw.githubusercontent.com/Black-Axe/DigitalAssets/main/logos/baxeblueclear.png" />
+  </a>
+
+Ask me about projects or how you can join or help <a href="https://github.com/Black-Axe">Black Axe</a></footer>
