@@ -12,7 +12,7 @@
 
 
 </div>
-<div size='20px'> Hi, my name is Sherief and I'm a full stack developer and open source lover.
+<div size='20px'> Hi, my name is Sherief and I'm a professional software engineer, computer science student, and open source lover.
 </div>
 
 <h2> About Me</h2>
